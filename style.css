@@ -1,0 +1,18 @@
+.main-container{background-color: red;}
+.side-bar{height:100vh;background-color: #c37f7f;}
+.logo-div{padding: 10px;text-align: center;width: 200px;}
+.logo-div h4 strong{font-style: italic;color: #fff8f8;}
+.main-div{ background-color: #ffffed;padding: 20px;}
+.notification{display: flex;justify-content: end;gap: 3vh;}
+.notification p{margin-top: 10px;}
+.veh-spec{background-color: #ffb0b0; height: 15vh;border-radius: 10px;}
+.profile{height: 50px; width: 50px; display: flex; justify-content: center; align-items: center; border-radius: 50%; background-color: black;}
+.profile img{height: 47px; width: 47px;border-radius: 50%; object-fit: cover;}
+.veh-book{height: 34vh;background-color: #ffe0e0; border-radius: 10px;}
+.veh-book-img{height: 28vh;}
+.veh-book-spec{margin-top: 1vh;}
+.veh-spec-det{ display: flex;gap:1vh;height: 14vh;width:100%}
+.spec-details{height: 13vh;background-color: #c37f7f;width: 50%;border-radius: 7px;}
+.veh-available{background-color: #ffe0e0;height: 34vh;border-radius: 10px;}
+.book-list{height:27vh; background-color: #ffe0e0;border-radius: 10px;}
+.last-div{height:27vh; background-color: #ffe0e0;border-radius: 10px;}
